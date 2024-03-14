@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){var e=document.querySelector("select#zswitch");e.addEventListener("change",(function(){e.value&&(window.location=e.value)}))}));

@@ -3,7 +3,7 @@ Contributors: Hatem Azzouzi
 Tags: translation, language, locale, internationalization
 Requires at least: 5.0
 Tested up to: 6.4.3
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 License: GPLv2 or later
 
 # Introduction

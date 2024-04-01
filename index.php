@@ -5,7 +5,7 @@
 /*
 Plugin Name: Z Multi-Languages
 Description: With one click, translate any page, post or custom type post to unlimited languages/locales.
-Version: 0.1.0
+Version: 0.1.1
 Requires at least: 5.0
 Requires PHP: 5.6.20
 Author: Hatem Azzouzi
